@@ -1,0 +1,6 @@
+D:\Data\MCUXpresso_workspace\MIMXRT1021_Project\drivers/fsl_clock.h:1262:20:CLOCK_SetDiv	24	static
+D:\Data\MCUXpresso_workspace\MIMXRT1021_Project\drivers/fsl_pwm.h:857:20:PWM_StartTimer	16	static
+D:\Data\MCUXpresso_workspace\MIMXRT1021_Project\drivers/fsl_pwm.h:1058:20:PWM_SetPwmLdok	16	static
+D:\Data\MCUXpresso_workspace\MIMXRT1021_Project\drivers/fsl_pwm.h:1125:20:PWM_SetupFaultDisableMap	24	static
+../source/lib/pwm.c:30:6:pwm_init	88	static
+../source/lib/pwm.c:87:6:pwm_set	24	static

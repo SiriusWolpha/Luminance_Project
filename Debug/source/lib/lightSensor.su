@@ -1,0 +1,11 @@
+D:\Data\MCUXpresso_workspace\Luminance_Project\drivers/fsl_gpio.h:176:24:GPIO_PinRead	16	static
+../source/lib/lightSensor.c:27:6:scl	16	static
+../source/lib/lightSensor.c:37:6:sda	16	static
+../source/lib/lightSensor.c:47:9:sda_read	8	static
+../source/lib/lightSensor.c:61:6:i2c_start	8	static
+../source/lib/lightSensor.c:74:6:i2c_stop	8	static
+../source/lib/lightSensor.c:87:6:i2c_write	24	static
+../source/lib/lightSensor.c:120:9:i2c_read	32	static
+../source/lib/lightSensor.c:170:10:read	32	static
+../source/lib/lightSensor.c:210:10:calculate	48	static
+../source/lib/lightSensor.c:236:5:convert2pwm	24	static

@@ -1,0 +1,13 @@
+D:\Data\MCUXpresso_workspace\Luminance_Project\drivers/fsl_common_arm.h:225:20:_SDK_AtomicLocalClearAndSet4Byte	48	static
+D:\Data\MCUXpresso_workspace\Luminance_Project\drivers/fsl_clock.h:1298:20:CLOCK_ControlGate	32	static
+D:\Data\MCUXpresso_workspace\Luminance_Project\drivers/fsl_clock.h:1315:20:CLOCK_EnableClock	16	static
+D:\Data\MCUXpresso_workspace\Luminance_Project\drivers/fsl_iomuxc.h:859:20:IOMUXC_SetPinMux	24	static
+D:\Data\MCUXpresso_workspace\Luminance_Project\drivers/fsl_gpio.h:253:20:GPIO_PortEnableInterrupts	16	static
+../board/pin_mux.c:173:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:206:6:BOARD_InitPins	48	static
+../board/pin_mux.c:307:6:BOARD_InitDEBUG_UARTPins	32	static
+../board/pin_mux.c:396:6:BOARD_InitSDRAMPins	16	static
+../board/pin_mux.c:457:6:BOARD_InitCANPins	16	static
+../board/pin_mux.c:490:6:BOARD_InitENETPins	16	static
+../board/pin_mux.c:528:6:BOARD_InitUSDHCPins	16	static
+../board/pin_mux.c:560:6:BOARD_InitQSPIPins	16	static

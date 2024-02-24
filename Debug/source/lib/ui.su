@@ -1,0 +1,7 @@
+../source/lib/ui.c:26:6:ui_init	8	static
+../source/lib/ui.c:38:6:ui_luminance	16	static
+../source/lib/ui.c:62:7:ui_image	40	static
+../source/lib/ui.c:75:6:ui_label	40	static
+../source/lib/ui.c:89:6:ui_displayText	56	static
+../source/lib/ui.c:151:6:ui_displayImage	40	static
+../source/lib/ui.c:163:6:ui_solidScreen	16	static

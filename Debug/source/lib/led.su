@@ -1,0 +1,3 @@
+../source/lib/led.c:25:6:Sleep	16	static
+../source/lib/led.c:34:6:light	16	static
+../source/lib/led.c:84:6:light_time	16	static
