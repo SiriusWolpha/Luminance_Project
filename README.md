@@ -1,5 +1,5 @@
-## Luminance Project
-# By Wolpha (aka Mr.Wolf)
+# Luminance Project
+## By Wolpha (aka Mr.Wolf)
 实现亮度的测量与控制
 
 MCUXpresso 项目
